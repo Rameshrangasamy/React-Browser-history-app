@@ -1,0 +1,45 @@
+.item-container {
+  background-color: #ffffff;
+  max-width: 800px;
+  margin: 16px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.image-container {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.time {
+  color: #475569;
+  font-size: 12px;
+  font-weight: bold;
+  margin: 16px;
+}
+
+.logo {
+  height: 30px;
+  width: 30px;
+  margin-left: 16px;
+}
+.title {
+  font-family: 'Roboto';
+  font-size: 12px;
+  color: #475569;
+  font-weight: bold;
+  margin-left: 10px;
+}
+.domain-name {
+  font-family: 'Roboto';
+  font-size: 12px;
+  color: #64748b;
+  margin-left: 5px;
+}
+
+.button {
+  background-color: transparent;
+  border: none;
+}
